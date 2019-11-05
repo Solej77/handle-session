@@ -1,0 +1,28 @@
+{
+  "name": "handle-session",
+  "version": "1.0.0",
+  "description": "Learn about cookies",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solej77/handle-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solej77/handle-session/issues"
+  },
+  "homepage": "https://github.com/Solej77/handle-session#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
